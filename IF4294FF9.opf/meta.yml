@@ -1,0 +1,114 @@
+id: IF4294FF9
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:19:30.611843'
+last_modified: '2022-06-17T12:19:30.611848'
+parser: null
+source_metadata:
+  title: Kangyur
+  language: it
+  description: 'Texts from and related to the Kangyur (bka'' ''gyur), the Tibetan
+    canonical collection of the Buddha''s Word (bka'') in translation (''gyur):'
+  volume:
+    f5FEF:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      base_file: f5FEF.txt
+      order: 1
+      parent: Sūtra
+    fD8B4:
+      title: The Noble Mahāyāna Sūtra entitled The Wisdom of the Hour of Death
+      base_file: fD8B4.txt
+      order: 2
+      parent: Sūtra
+    fA9B3:
+      title: The Noble Sūtra Teaching the Eleven Perceptions
+      base_file: fA9B3.txt
+      order: 3
+      parent: Sūtra
+    f87D7:
+      title: The Noble Sūtra of Recalling the Three Jewels
+      base_file: f87D7.txt
+      order: 4
+      parent: Sūtra
+    f2E9E:
+      title: The Noble Sūtra of the Teaching on the Four Factors
+      base_file: f2E9E.txt
+      order: 5
+      parent: Sūtra
+    f20AD:
+      title: The Perfection of Wisdom, Mother of All Tathāgatas, ‘In One Syllable’
+      base_file: f20AD.txt
+      order: 6
+      parent: Sūtra
+    f8D9A:
+      title: The Sūtra of Boundless Life and Wisdom
+      base_file: f8D9A.txt
+      order: 7
+      parent: Sūtra
+    fD5E4:
+      title: A Section of the Vajrakīla Root Tantra
+      base_file: fD5E4.txt
+      order: 8
+      parent: Tantra
+    fDDF3:
+      title: Chanting the Names of Noble Mañjuśrī
+      base_file: fDDF3.txt
+      order: 9
+      parent: Tantra
+    fDE3E:
+      title: The Auspicious Verses of the Seven Successive Buddhas
+      base_file: fDE3E.txt
+      order: 10
+      parent: Tantra
+    f7B41:
+      title: The Noble Mārīcī Dhāraṇī
+      base_file: f7B41.txt
+      order: 11
+      parent: Tantra
+    f57BF:
+      title: The Praise to Tārā with Twenty-One Verses of Homage and The Excellent
+        Benefits of Reciting the Praise
+      base_file: f57BF.txt
+      order: 12
+      parent: Tantra
+    fAAD8:
+      title: The Dhāraṇī of Stream of Wealth (Vasudhārā)
+      base_file: fAAD8.txt
+      order: 13
+      parent: Dhāraṇī
+    f8BE4:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      base_file: f8BE4.txt
+      order: 14
+      parent: Dhāraṇī
+    fA927:
+      title: The Noble Dhāraṇī of The Supreme Accomplishment of Sitātapatrā Born from
+        the Tathāgata’s Uṣṇīṣa, the Great Invincible Dispeller
+      base_file: fA927.txt
+      order: 15
+      parent: Dhāraṇī
+    f9A91:
+      title: The Noble Essence of Dependent Origination
+      base_file: f9A91.txt
+      order: 16
+      parent: Dhāraṇī
+    f5DBB:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      base_file: f5DBB.txt
+      order: 17
+      parent: Dhāraṇī
+    f968D:
+      title: The Dhāraṇīs That Encapsulate the Essence of the Kangyur, the Collected
+        Words of the Buddha
+      base_file: f968D.txt
+      order: 18
+      parent: Dhāraṇī
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
